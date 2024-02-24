@@ -1,0 +1,15 @@
+.but1 {
+  background-color: orange;
+  color: cyan;
+  font-weight: bold;
+}
+
+.but2 {
+  background-color: cyan;
+}
+
+.but1,
+.but2 {
+  font-size: 28px;
+  font: Helvetica, "Times New Roman", sans-serif;
+}
